@@ -19,7 +19,9 @@
 + ## **게임 상세**
   + ### 핵심 플레이
     + #### 미리 등록한 음식 이미지를 카메라로 인식하여 해당 음식을 만드는 요리 게임을 진행. 
-  + ### 시연 영상
-    + #### [유튜브 링크](https://youtu.be/SF2FJB1Xeug)
-    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178149966-abc8378e-7447-489b-8d7b-26dc16068c77.PNG)](https://youtu.be/SF2FJB1Xeug)
-    + 
+  + ### 시연 사진
+    + ![image](https://user-images.githubusercontent.com/27190634/215039183-5a2796ae-db6b-402b-8666-f27cb751acf2.png)
+    + ![image](https://user-images.githubusercontent.com/27190634/215039272-d93c87b6-69b7-48c5-a626-dd896c1eb060.png)
+    + ![image](https://user-images.githubusercontent.com/27190634/215039311-151b6271-2ff0-4d99-aeb6-f043496c6312.png)
+
+
