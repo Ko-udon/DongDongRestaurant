@@ -4,7 +4,7 @@
 
 + ## **게임 개요**
   + ### 플랫폼
-    + #### <img alt="Chrome" src ="https://img.shields.io/badge/PC-4285F4.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=black"/><img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/><img alt="Apple" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white"/> (웹페이지 게임)
+    + #### <img alt="Chrome" src ="https://img.shields.io/badge/PC-4285F4.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=black"/><img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/><img alt="Apple" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white"/> 
   + ### 장르
     + #### 퀴즈 / 퍼즐 게임
   + ### 개발에 사용한 엔진 및 언어 
