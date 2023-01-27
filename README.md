@@ -26,4 +26,6 @@
     + ![image](https://user-images.githubusercontent.com/27190634/215039375-261244e4-124c-4639-b27e-22abce31896f.png)
 
 
-[팀 프로젝트_최종발표_팀_keverse.pptx.pdf](https://github.com/ehddn/DongDongRestaurant/files/10516855/_._._keverse.pptx.pdf)
+![image](https://user-images.githubusercontent.com/27190634/215040256-881147b2-e6a5-42eb-b582-829d2a973c3c.png)
+![image](https://user-images.githubusercontent.com/27190634/215040304-5da70201-4a5d-463d-9f40-eee25ac2496d.png)
+
